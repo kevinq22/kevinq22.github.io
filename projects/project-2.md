@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/1.PNG
 title: ICS 111 Final Group Project
-permalink: projects/ics111
+permalink: projects/final
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-03
 labels:
