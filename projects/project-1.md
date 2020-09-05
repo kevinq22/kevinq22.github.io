@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project1.jpg
 title: English Teaching Assistant 
-permalink: projects/micromouse
+permalink: projects/englishta
 # All dates must be YYYY-MM-DD format!
 date: 2017-06-01
 labels:
