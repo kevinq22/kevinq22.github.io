@@ -13,7 +13,7 @@ labels:
 summary: I worked at Temple University Japan as a teaching assistant for their summer second language program.
 ---
 
-<div class="ui small rounded images">
+
   <img class="ui image" src="../images/project1.png">
  
 
