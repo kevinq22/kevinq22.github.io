@@ -1,44 +1,29 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/project1.jpg
+title: English Teaching Assistant 
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-06-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Temple University Japan
+  - English
+  - Teaching Assistant
+summary: I worked at Temple University Japan as a teaching assistant for their summer second language program.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+  <img class="ui image" src="../images/project1.png">
+ 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Around the start of June 2017, I got a part time job with Temple University Japan as an English teaching assistant. Around that time, I was also studying at their institution and took some Japanese courses there. One of my college friends who majored in Japanese invited me to work with him and I thought it would be interesting to try out. After undergoing an interview with their English Program department, I got accepted and went through a couple days of training before I officially became a TA. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I worked as an English TA for about a year before transferring to University of Hawaii at Manoa. Throughout the one year which I have worked, my job was primarily to collaborate with other fellow TAs and teachers to teach Japanese middle school and high school students how to speak and write English. The overall experience I had from this job was very interesting and rewarding, as it forced me to work on my social skills and overcome a language barrier. Despite the fact that I knew a little Japanese at the time and could speak with the students in Japanese, the program strictly enforced a rule among all the TAs to only speak in English, as speaking Japanese with the students defeats the purpose of them learning English in the first place. 
 
-Here is some code that illustrates how we read values from the line sensors:
+Therefore, me and the other TAs had to think of creative and efficient ways to teach these students the language in a manner at which they could actually understand. Some of the techniques that we utilized included using lots of visuals and illustrations, along with body language to convey an action, and then associate that action with the respective English word. Additionally, I had to brainstorm some social group activities that would get these students speak to each other while using the English phrases and words that we taught them.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
