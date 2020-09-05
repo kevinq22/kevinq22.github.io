@@ -12,8 +12,6 @@ labels:
   - Teaching Assistant
 summary: I worked at Temple University Japan as a teaching assistant for their summer second language program.
 ---
-
-
   <img class="ui image" src="../images/project1.png">
  
 
