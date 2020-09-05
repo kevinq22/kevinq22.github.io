@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/carchase2.PNG
 title: ICS 111 First Project
-permalink: projects/ics111
+permalink: projects/ics111-1
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-27
 labels:
