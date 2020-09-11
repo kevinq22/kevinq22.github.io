@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: Keep It Simple, Stupid
+Date: 2020-09-10
+labels:
+  - Third Essay
+  - E11
+---
+
 ##Preface
 
 When I was a young middle school kid, I would tend to be (for the most part) the student who would just listen to the teacher without doubting or thinking twice about what the teacher taught us. Like me, there would also be a good portion of students who didn’t bother asking any questions. Then, there were the rest of the students in my class who had the confidence and curiosity of asking the teacher questions with no holds barred. Admittedly, I used to admire my classmates who didn’t care whether their questions were smart ones or not, because they were the ones who created an environment wherein I myself felt comfortable enough to eventually ask our teacher questions. 
