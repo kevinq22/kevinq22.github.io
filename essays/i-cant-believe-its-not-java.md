@@ -5,7 +5,7 @@ title: I Can’t Believe It’s Not Java!
 Date: 2020-09-03
 labels:
   - First Essay
-  - E09
+  - E11
 ---
 
 Javascript is a language that I have heard about many times before taking ICS 314. Prior to this class, I did not have any experience with Javascript nor have I taken any Javascript courses. What I did know about Javascript however, is that it is relatively fast and lightweight, and in addition widely used in many web-based applications. Two weeks have already passed since ICS 314 began and within that short timespan, I have undertaken the freeCodeCamp Javascript exercises and practice WODs that would help me get adjusted to the language. From doing these exercises, I have gained a decent level of knowledge about coding in Javascript. Therefore in this essay, I would like to discuss and share my initial impressions with the language while possibly comparing it to other languages I have used.
