@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/carchase3.PNG
+image: images/carchase3.png
 title: ICS 111 First Project
 permalink: projects/first
 # All dates must be YYYY-MM-DD format!
