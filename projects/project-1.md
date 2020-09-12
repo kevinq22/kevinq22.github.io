@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project1.jpg
+image: images/TA.jpg
 title: English Teaching Assistant 
 permalink: projects/englishta
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
   - Teaching Assistant
 summary: I worked at Temple University Japan as a teaching assistant for their summer second language program.
 ---
-<img class="ui medium right floated rounded image" src="../images/project1.jpg">
+<img class="ui medium right floated rounded image" src="../images/TA.jpg">
 
 Around the start of June 2017, I got a part time job with Temple University Japan as an English teaching assistant. Around that time, I was also studying at their institution and took some Japanese courses there. One of my college friends who majored in Japanese invited me to work with him and I thought it would be interesting to try out. After undergoing an interview with their English Program department, I got accepted and went through a couple days of training before I officially became a TA. 
 
