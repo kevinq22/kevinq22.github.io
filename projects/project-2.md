@@ -13,7 +13,7 @@ labels:
 summary: ICS 111 Final Project that involved working with classmates to create our own game. 
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/1.PNG">
   <img class="ui image" src="../images/2.PNG">
 </div>
