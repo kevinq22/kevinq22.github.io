@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/1.PNG
+image: images/dragoon.png
 title: ICS 111 Final Group Project
 permalink: projects/final
 # All dates must be YYYY-MM-DD format!
