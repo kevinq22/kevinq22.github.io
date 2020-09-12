@@ -15,6 +15,8 @@ summary: ICS 111 Final Project that involved working with classmates to create o
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/1.PNG">
+</div>
+<div class="ui large rounded images">
   <img class="ui image" src="../images/2.PNG">
 </div>
 
