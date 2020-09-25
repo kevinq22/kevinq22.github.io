@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Keep It Simple, Stupid
-Date: 2020-09-10
+date: 2020-09-10
 labels:
   - Third Essay
   - E11
