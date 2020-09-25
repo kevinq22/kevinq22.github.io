@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: I Can’t Believe It’s Not Java!
-Date: 2020-09-03
+date: 2020-09-03
 labels:
   - First Essay
   - E09
