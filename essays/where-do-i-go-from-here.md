@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Where do I go from here?
-Date: 2020-09-04
+date: 2020-09-04
 labels:
   - Second Essay
   - E05
