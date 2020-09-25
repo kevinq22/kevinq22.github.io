@@ -1,4 +1,12 @@
-ESLint: The MLA format for programmers
+---
+layout: essay
+type: essay
+title: ESLint, the MLA for programmers
+Date: 2020-09-24
+labels:
+  - Fourth Essay
+  - ESLint
+---
 
 ## Another Boring Backstory Prologue
 
@@ -11,8 +19,6 @@ MLA is a standard format that essentially specifies how someone should write aca
 ## Getting to the Point
 
 When I first started off programming in ICS 111, I have done so many bad coding habits that made my code unreadable not only for others, but for myself as well. Like my initial frustrations with college essay writing, I also sometimes ended up having to rewrite a function or even a whole class because of the many syntactic and semantic errors that prevent my program from running. The common mistakes I often made varied from forgetting indentations and semicolons, to placing one too many curly braces when scoping, and arguably the most horrifying of all: using underscore convention to name variables (my professor shunned anyone who dared using underscore in our projects because camel case was clearly superior). Jokes aside, my professor reassured everyone in class that these mistakes were to be expected as we were still learning the language. 
-
-
 
 It was not until I reached ICS 211 that I actually had to become familiar with good coding practices. Around some point throughout ICS 211, my professor introduced this tool called checkstyle. Checkstyle is a code analysis tool for Java and checks if your code adheres to a specific coding standard. This means that if for example, I indented too much or I am missing a whitespace somewhere, checkstyle errors would automatically appear. However, I can easily fix these errors by highlighting over them and seeing what error message it returns. As another alternative, I could also just let checkstyle do the work for me and automatically fix the errors by pressing a certain hotkey. For the code that I have written in 211, in my experience checkstyle was automatically able to fix most checkstyle violations 9 out of 10 times. This tool was a godsend to say the least, and I loved the time that I spent using it in my projects.
 
