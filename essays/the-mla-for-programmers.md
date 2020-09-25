@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: ESLint, the MLA for programmers
-Date: 2020-09-24
+date: 2020-09-24
 labels:
   - Fourth Essay
   - ESLint
