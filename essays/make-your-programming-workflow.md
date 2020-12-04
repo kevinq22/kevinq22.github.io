@@ -22,4 +22,4 @@ One design pattern that I particularly like is the Model-View-Controller (MVC) p
 
 ## Final Thoughts
 
-Overall, I think that design patterns are very flexible and versatile in making my code more manageable. Additionally, it eases the programming workflow in that I don’t have to work at a problem from scratch, but rather I can use design patterns as a sort of blueprint or skeleton to build upon my actual solution. As I continue to expose myself to more design patterns, I hope that with more experience and knowledge, I can effectively use design patterns for my future projects.
+Overall, I think that design patterns are very flexible and versatile in making my code more manageable. Additionally, it eases the programming workflow in that I don’t have to work at a problem from scratch, but rather I can use design patterns as a sort of blueprint or skeleton to build upon my actual solution. As I continue to expose myself to more design patterns I hope that with more experience and knowledge, I can effectively use design patterns for my future projects.
