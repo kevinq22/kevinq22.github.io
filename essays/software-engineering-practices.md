@@ -7,7 +7,7 @@ labels:
   - Final Essay
   - Reflect on Software Engineering
   -UI Frameworks
-  -Coding Standards
+  - Coding Standards
 ---
 
 ## Aqcuiring new skills
