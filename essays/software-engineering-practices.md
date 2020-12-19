@@ -6,7 +6,7 @@ date: 2020-12-18
 labels:
   - Final Essay
   - Reflect on Software Engineering
-  -UI Frameworks
+  - UI Frameworks
   - Coding Standards
 ---
 
